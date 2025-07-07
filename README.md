@@ -40,6 +40,7 @@ sudo apt install -y docker-ce docker-ce-cli containerd.io docker-buildx-plugin d
 
 ---
 
+
 ## Building the Secure Hacking Container
 
 ### Create a working directory:
@@ -105,6 +106,7 @@ services:
 
 ---
 
+
 ## Using the Container
 
 ### Build the container:
@@ -162,6 +164,7 @@ cat ~/hacking-sandbox/results/<filename>
 ```
 
 ---
+
 
 ## Add an Alias for Fast Access
 
