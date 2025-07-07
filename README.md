@@ -129,9 +129,9 @@ docker compose down --remove-orphans
 
 ### Save output files:
 ```bash
-echo "scan results" > ~/hacking-sandbox/results/scan.txt
+cp nmap_scan.txt ~/hacking-sandbox/results/
 ```
-> Replace `"scan results"` with your actual output. Files will be stored in the `results` folder on your host.
+> Replace `nmap_scan.txt` with your actual file. Files will be stored in the `results` folder on your host.
 
 ---
 
