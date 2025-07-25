@@ -50,6 +50,13 @@ docker compose down --rmi all
 ## Scan Images with *Trivy*
 ### Install Trivy:
 
+1. First update the system:
+
+```bash
+sudo apt update
+```
+2. Install Trivy:
+
 ```bash
 sudo apt install trivy
 ```
