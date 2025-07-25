@@ -38,6 +38,7 @@ nmap -sV -sT -p- <IP> -oN /home/sandbox/results/scan.txt
 ```
 
 On the host (your Kali VM), you’ll find the saved files under the `results/` directory located next to your Docker files.
+
 ---
 
 ### [`docker-hygiene`](./docker-hygiene)
